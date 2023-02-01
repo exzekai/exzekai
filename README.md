@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @exzekai
-- 👀 I’m interested in DFIR, Cloud Security
-- 🌱 I’m currently learning Terraform Automation and Malware Analysis
+- 👀 I’m interested in DFIR, CTI, Cloud Security
+- 🌱 I’m currently learning Terraform Automation, Kubernetes, API Security and Malware Analysis
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at admin@exzekai.com
 
 <!---
 exzekai/exzekai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
